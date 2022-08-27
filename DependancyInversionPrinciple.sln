@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependancyInversionPrinciple", "DependancyInversionPrinciple\DependancyInversionPrinciple.csproj", "{47E6BC82-847E-4079-BAF0-39E6FD9818E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIPLibrary", "DIPLibrary\DIPLibrary.csproj", "{E9033ED5-382C-46C3-942D-80CAA9993457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47E6BC82-847E-4079-BAF0-39E6FD9818E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E6BC82-847E-4079-BAF0-39E6FD9818E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E6BC82-847E-4079-BAF0-39E6FD9818E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E6BC82-847E-4079-BAF0-39E6FD9818E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9033ED5-382C-46C3-942D-80CAA9993457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9033ED5-382C-46C3-942D-80CAA9993457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9033ED5-382C-46C3-942D-80CAA9993457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9033ED5-382C-46C3-942D-80CAA9993457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B557D28-0532-4C6C-8C98-A3BFB8DF2D27}
+	EndGlobalSection
+EndGlobal
